@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eugenenoble2005/chesscheat.git"
+    "url": "git+https://github.com/arcticmathisback/chesscheat.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Eugenenoble2005/chesscheat/issues"
+    "url": "https://github.com/arcticmathisback/chesscheat/issues"
   },
-  "homepage": "https://github.com/Eugenenoble2005/chesscheat#readme",
+  "homepage": "https://github.com/arcticmathisback/chesscheat#readme",
   "dependencies": {
     "stockfish.wasm": "^0.10.0"
   }
